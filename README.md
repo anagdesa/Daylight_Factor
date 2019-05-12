@@ -45,7 +45,10 @@ Example from Result of SC Sample
 <img src="gambar/mean%20var.jpg">
 
 ---
-Author : [gramandha aka anagdesa](https://github.com/anagdesa)
+
+Author : [gramandha](https://github.com/anagdesa)
+
 @Mei 2019
+
 ---
 
