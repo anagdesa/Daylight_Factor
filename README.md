@@ -14,3 +14,8 @@ Calculate of Equation
      
      wd = w/d    
      hd = h/d   
+## Master Point Daylight Factor By Sky Component
+
+Master Point
+
+-[rx.m] https://github.com/anagdesa/Daylight_Factor/blob/master/AddJendela.m
