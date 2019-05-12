@@ -17,15 +17,15 @@ Calculate of Equation
      
 ## Master Point Sky Component
 
-[rx.m](https://github.com/anagdesa/Daylight_Factor/blob/master/AddJendela.m)
-[myVar.m](https://github.com/anagdesa/Daylight_Factor/blob/master/myVar.m)
-[SetMode.m](https://github.com/anagdesa/Daylight_Factor/blob/master/SetMode.m)
-[initDF.m](https://github.com/anagdesa/Daylight_Factor/blob/master/initDF.m)
-[SetMethod.m](https://github.com/anagdesa/Daylight_Factor/blob/master/SetMethod.m)
-[addLine.m](https://github.com/anagdesa/Daylight_Factor/blob/master/addLine.m)
-[MyVar.m](https://github.com/anagdesa/Daylight_Factor/blob/master/MyVar.m)
-[Execute.m](https://github.com/anagdesa/Daylight_Factor/blob/master/Execute.m)
-[AddJendela.m](https://github.com/anagdesa/Daylight_Factor/blob/master/AddJendela.m)
-[PointIm Poligon.m](https://github.com/anagdesa/Daylight_Factor/blob/master/PointIm Poligon.m)
-[HDF.m](https://github.com/anagdesa/Daylight_Factor/blob/master/HDF.m)
+-[rx.m](https://github.com/anagdesa/Daylight_Factor/blob/master/AddJendela.m)
+-[myVar.m](https://github.com/anagdesa/Daylight_Factor/blob/master/myVar.m)
+-[SetMode.m](https://github.com/anagdesa/Daylight_Factor/blob/master/SetMode.m)
+-[initDF.m](https://github.com/anagdesa/Daylight_Factor/blob/master/initDF.m)
+-[SetMethod.m](https://github.com/anagdesa/Daylight_Factor/blob/master/SetMethod.m)
+-[addLine.m](https://github.com/anagdesa/Daylight_Factor/blob/master/addLine.m)
+-[MyVar.m](https://github.com/anagdesa/Daylight_Factor/blob/master/MyVar.m)
+-[Execute.m](https://github.com/anagdesa/Daylight_Factor/blob/master/Execute.m)
+-[AddJendela.m](https://github.com/anagdesa/Daylight_Factor/blob/master/AddJendela.m)
+-[PointIm Poligon.m](https://github.com/anagdesa/Daylight_Factor/blob/master/PointInPoligon.m)
+-[HDF.m](https://github.com/anagdesa/Daylight_Factor/blob/master/HDF.m)
 
