@@ -16,7 +16,8 @@ Calculate of Equation
      hd = h/d   
      
 Example from Result of SC Sample
-<img src="Gambar/Sample.jpg">
+
+<img src="gambar/Sample.JPG">
 
 ## Master Point Sky Component
 
@@ -40,6 +41,7 @@ Example from Result of SC Sample
 - [Fitting2](https://github.com/anagdesa/Daylight_Factor/blob/master/daylight_kotak.m)
 
 ## Example of Mean & Varian
-<img src="Gambar/mean var.jpg">
+
+<img src="gambar/mean%20var.jpg">
 
 
