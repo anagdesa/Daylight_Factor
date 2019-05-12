@@ -18,4 +18,4 @@ Calculate of Equation
 
 Master Point
 
--[rx.m] https://github.com/anagdesa/Daylight_Factor/blob/master/AddJendela.m
+- [rx.m](https://github.com/anagdesa/Daylight_Factor/blob/master/AddJendela.m)
