@@ -29,3 +29,9 @@ Calculate of Equation
 - [PointIm Poligon.m](https://github.com/anagdesa/Daylight_Factor/blob/master/PointInPoligon.m)
 - [HDF.m](https://github.com/anagdesa/Daylight_Factor/blob/master/HDF.m)
 
+## Sample Ruang
+- [Bangunan](https://github.com/anagdesa/Daylight_Factor/blob/master/bangunanUmum.m)
+
+## Proses Normalisasi & Fitting (Polynim&Palmer)
+- [Fitting1](https://github.com/anagdesa/Daylight_Factor/blob/master/FittingPalmer.m)
+- [Fitting2](https://github.com/anagdesa/Daylight_Factor/blob/master/daylight_kotak.m)
