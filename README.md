@@ -1,5 +1,5 @@
-# Daylight_Factor
-Estimasi Dayligh Factor In Variant Room
+
+# Estimasi Dayligh Factor In Variant Room
 
 MyDF File (Descripe)
 Find sky component value from Table BRE (variable definition)
